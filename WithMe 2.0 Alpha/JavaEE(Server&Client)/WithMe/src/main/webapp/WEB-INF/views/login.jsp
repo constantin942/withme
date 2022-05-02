@@ -36,7 +36,7 @@
         <img class="s-logo" src="${cp}/img/s-logo.png" alt="With Me">
         
         <div class="form">
-          <input id="userName" type="text" placeholder="用户名">
+          <input id="userName" type="text" placeholder="username">
           <input id="userPassword" type="password" placeholder="密码">
           <button onclick="checkLogin()">登录</button>
         </div>

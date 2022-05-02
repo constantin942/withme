@@ -153,4 +153,10 @@ public class Server extends WebSocketServer {
     public void subOnLineCount(){
         onLineCount--;
     }
+
+    @Override
+    public void onStart() {
+        // TODO Auto-generated method stub
+        
+    }
 }
